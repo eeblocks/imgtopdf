@@ -8,4 +8,4 @@ Transfer Images to PDF quickly and without downloading external applications. Th
 ###### You must have Python3 installed
 `pip3 install -r requirements.txt`<br>
 `python3 imgtopdf.py` <br>
-#### -----------------------
+#### Please give me credits <3
